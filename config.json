@@ -1,16 +1,16 @@
 {
-    "owner": "6285863648047@s.whatsapp.net",
+    "owner": "51902247905@s.whatsapp.net",
     "ownerNumber": [
-        "6288975984776@s.whatsapp.net",
+        "51902247905@s.whatsapp.net",
         "62xxxxx@s.whatsapp.net"
     ],
     "readme": "isi nomornya ownerNumber sesuai ada berapa no kalian mau banyak nomor juga bisa, jangan lupa tanda koma nya harus pas biar ga eror , install modul pake npm i yah jangan yarn, yarn gaje",
-    "contact": "6285863648047",
-    "botName": "Maleficent Bot - MD ❤️",
-    "ownerName": "Ruly Henderson",
-    "footer": "© Ruhend ",
-    "sosmed": "your Instagram url",
-    "thumbnail": "https://qu.ax/SpGe.jpeg",
+    "contact": "51902247905",
+    "botName": "zlok",
+    "ownerName": "kenn",
+    "footer": "zlok ",
+    "sosmed": "https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v",
+    "thumbnail": "https://telegra.ph/file/055d300f968d5ec9a0731.jpg",
     "music": "https://files.catbox.moe/3cm6wn.mp3",
     "ram": 800,
     "auto_dl": false,
@@ -18,12 +18,12 @@
     "qr": false,
     "pairing": true,
     "readme2": "botNumber adalah nomor yang mau di jadikan bot",
-    "botNumber": 62831228865243,
+    "botNumber": 56934176769,
     "group": {
         "adReply": true,
         "limit_adReply": true,
-        "link": "https://chat.whatsapp.com/L9HIN2afpUkG2zeVaLTR49",
-        "bye": "Bye 🐽\n%user \nHas Left From %subject Group",
-        "welcome": "Selamat Datang Babi 🐷\n%user \nDi 🚾 %subject"
+        "link": "https://whatsapp.com/channel/0029VaDajsjLI8YRnDjT2y1v",
+        "bye": "Adiós\n%user \nSe ha ido del grupo %subject",
+        "welcome": "Bienvenido\n%user \nA 🚾 %subject"
     }
 }
