@@ -1,13 +1,13 @@
 {
-    "wait": "🕒 WAIT || Tunggu Sebentar...",
-    "daftar": "Untuk Menggunakan Fitur Ini Silahkan Daftar Terlebih Dahulu Ketik .daftar nama.umur\nContoh .daftar tiro 1999.24",
-    "limit": "❗Limit Kamu Sudah Habis Tidak Bisa Gunain Fitur Ini\nUntuk Nambah Limit Silahkan Ketik\n.claim (untuk claim harian)\n.hour (untuk claim perjam)\n.claimkupon (untuk claim kupon)\n.claimuang (untuk claim uang)\n.buylimit jumlah (untuk membeli limit)\ncontoh .buylimit 1  ",
-    "banned": "❌ Kamu Telah Di Banned Tidak Bisa Menggunakan Bot\nSilahkan Konfirmasi Ke Owner",
-    "registered": "Kamu Sudah Daftar❗",
-    "disable": "‍🐽 Fitur Telah Di Matikan Owner\nChat Owner Untuk Menghidupkanya\nKetik .owner",
-    "OnlyGroup": "❗Perintah ini hanya bisa digunakan di grup",
-    "OnlyPM": "❗Perintah ini hanya bisa digunakan di private message",
-    "GrupAdmin": "❗Perintah ini hanya bisa digunakan oleh Admin Grup",   
-    "OnlyOwner": "❗Perintah ini hanya dapat digunakan oleh owner bot",
-    "premium": "❗Perintah ini khusus member premium\nhubungi owner"
+    "wait": "🕒 ESPERA || Espera un momento...",
+    "daftar": "Para usar esta función, regístrese primero escribiendo .daftar nombre.edad\nEjemplo .daftar tiro 1999.24",
+    "limit": "❗Tu límite ha sido agotado, no puedes usar esta función\nPara aumentar el límite, escribe\n.claim (para reclamar diariamente)\n.hour (para reclamar por hora)\n.claimkupon (para reclamar cupones)\n.claimuang (para reclamar dinero)\n.buylimit cantidad (para comprar límites)\nejemplo .buylimit 1",
+    "banned": "❌ Has sido prohibido, no puedes usar el bot\nPor favor, confirma con el propietario",
+    "registered": "¡Ya estás registrado❗",
+    "disable": "‍🐽 La función ha sido desactivada por el propietario\nChatea con el propietario para activarla\nEscribe .owner",
+    "OnlyGroup": "❗Este comando solo puede ser usado en grupo",
+    "OnlyPM": "❗Este comando solo puede ser usado en mensaje privado",
+    "GrupAdmin": "❗Este comando solo puede ser usado por el administrador del grupo",
+    "OnlyOwner": "❗Este comando solo puede ser usado por el propietario del bot",
+    "premium": "❗Este comando es exclusivo para miembros premium\ncontacta al propietario"
 }
