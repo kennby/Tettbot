@@ -23,7 +23,6 @@ export default {
       info += `${star} Simple WhatsApp Bot \nBy ${setting.footer}\n`
       info += `📚 Library : baileys-wa@latest\n`
       info += `👤 Owner @${num.split('@')[0]}\n`
-      info += ` 📸 Instagram: ${sosmed}\n\n`
       info += ` _Network Bot Usage_ :\n📥 Download: ${Download}\n📤 Upload: ${Upload}\n\n${jembut}`
       m.react('🐽', m.chat)
       let { menu } = await Format.Plugins(header, middle, pointer, bottom, prefix);
