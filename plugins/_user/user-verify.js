@@ -1,7 +1,7 @@
 export default {
    names: ['User Menu'],
-   tags: ['daftar'],
-   command: ['daftar', 'verify', 'v'],
+   tags: ['reg'],
+   command: ['reg', 'teg', 'v'],
    start: async (m, {
       text,
       prefix,
@@ -14,7 +14,7 @@ export default {
       let umur = text.split(".")[1];
       let sender = m.sender;
       if (!nama || !umur) {
-         return m.reply(`Akses ditolak! Masukkan nama dan umur yang benar. \ncontoh ${prefix+command} nadia omara.100`);
+         return m.reply(`Akses ditolak! Masukkan nama dan umur yang benar. \ncontoh ${prefix+command} nadia kenn.100`);
       }
       let sn = Format.makeid(10);
       let user = {
